@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialString", "SpecialString\SpecialString.csproj", "{711FB9CC-3647-4385-9623-F2381D7F7506}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoatLatin", "GoatLatin\GoatLatin.csproj", "{FC627E7F-FBA5-4B88-98B4-8B84A1DBAE48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{711FB9CC-3647-4385-9623-F2381D7F7506}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{711FB9CC-3647-4385-9623-F2381D7F7506}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{711FB9CC-3647-4385-9623-F2381D7F7506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC627E7F-FBA5-4B88-98B4-8B84A1DBAE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC627E7F-FBA5-4B88-98B4-8B84A1DBAE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC627E7F-FBA5-4B88-98B4-8B84A1DBAE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC627E7F-FBA5-4B88-98B4-8B84A1DBAE48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
