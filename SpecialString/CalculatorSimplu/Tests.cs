@@ -49,7 +49,7 @@ namespace CalculatorSimplu
             var actual = Calculator.Scadere(input1, input2);
 
             //Assert
-            Assert.AreEqual(120.98, actual);
+            Assert.AreEqual(120.98, actual,2);
         }
 
         [TestCase(32.8, 0, 32.8)]
